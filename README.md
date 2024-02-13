@@ -12,7 +12,7 @@
 # 3.	Visualizing Distributions:
 •	Visualizations of Sepal and Petal distributions by Species are created using histograms with Kernel Density Estimates (KDE).
 •	Subplots are used for Sepal Length, Sepal Width, Petal Length, and Petal Width to compare the distributions across different species.
-![image](https://github.com/Vinod-Ghanchi/Project-1-Iris-Dataset-Basic-Analysis/assets/80514865/205a2c7a-499a-4e3c-90cf-5abf1a431995)
+![image](https://github.com/Vinod-Ghanchi/Project-1-Iris-Dataset-Basic-Analysis/assets/80514865/3b4cee9b-3e0a-4b28-acc0-3fed07d9bf87)
 
 # 4.	Pairwise Scatter Plot:
 •	A pairwise scatter plot with color-coded species is created using Seaborn's pairplot to explore relationships between different features.
